@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: idgenerator
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: efrem
+Implementation-Vendor-Id: org.efremov
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/idgenerator/
+Created-By: Maven Integration for Eclipse
+
